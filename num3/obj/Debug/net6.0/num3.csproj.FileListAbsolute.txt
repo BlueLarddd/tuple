@@ -1,0 +1,30 @@
+C:\Users\fanta\source\repos\num3\num3\bin\Debug\net6.0\num3.exe
+C:\Users\fanta\source\repos\num3\num3\bin\Debug\net6.0\num3.deps.json
+C:\Users\fanta\source\repos\num3\num3\bin\Debug\net6.0\num3.runtimeconfig.json
+C:\Users\fanta\source\repos\num3\num3\bin\Debug\net6.0\num3.dll
+C:\Users\fanta\source\repos\num3\num3\bin\Debug\net6.0\ref\num3.dll
+C:\Users\fanta\source\repos\num3\num3\bin\Debug\net6.0\num3.pdb
+C:\Users\fanta\source\repos\num3\num3\obj\Debug\net6.0\num3.csproj.AssemblyReference.cache
+C:\Users\fanta\source\repos\num3\num3\obj\Debug\net6.0\num3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanta\source\repos\num3\num3\obj\Debug\net6.0\num3.AssemblyInfoInputs.cache
+C:\Users\fanta\source\repos\num3\num3\obj\Debug\net6.0\num3.AssemblyInfo.cs
+C:\Users\fanta\source\repos\num3\num3\obj\Debug\net6.0\num3.csproj.CoreCompileInputs.cache
+C:\Users\fanta\source\repos\num3\num3\obj\Debug\net6.0\num3.dll
+C:\Users\fanta\source\repos\num3\num3\obj\Debug\net6.0\ref\num3.dll
+C:\Users\fanta\source\repos\num3\num3\obj\Debug\net6.0\num3.pdb
+C:\Users\fanta\source\repos\num3\num3\obj\Debug\net6.0\num3.genruntimeconfig.cache
+C:\Users\fanta\OneDrive\Рабочий стол\num3\num3\bin\Debug\net6.0\num3.exe
+C:\Users\fanta\OneDrive\Рабочий стол\num3\num3\bin\Debug\net6.0\num3.deps.json
+C:\Users\fanta\OneDrive\Рабочий стол\num3\num3\bin\Debug\net6.0\num3.runtimeconfig.json
+C:\Users\fanta\OneDrive\Рабочий стол\num3\num3\bin\Debug\net6.0\num3.dll
+C:\Users\fanta\OneDrive\Рабочий стол\num3\num3\bin\Debug\net6.0\ref\num3.dll
+C:\Users\fanta\OneDrive\Рабочий стол\num3\num3\bin\Debug\net6.0\num3.pdb
+C:\Users\fanta\OneDrive\Рабочий стол\num3\num3\obj\Debug\net6.0\num3.csproj.AssemblyReference.cache
+C:\Users\fanta\OneDrive\Рабочий стол\num3\num3\obj\Debug\net6.0\num3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanta\OneDrive\Рабочий стол\num3\num3\obj\Debug\net6.0\num3.AssemblyInfoInputs.cache
+C:\Users\fanta\OneDrive\Рабочий стол\num3\num3\obj\Debug\net6.0\num3.AssemblyInfo.cs
+C:\Users\fanta\OneDrive\Рабочий стол\num3\num3\obj\Debug\net6.0\num3.csproj.CoreCompileInputs.cache
+C:\Users\fanta\OneDrive\Рабочий стол\num3\num3\obj\Debug\net6.0\num3.dll
+C:\Users\fanta\OneDrive\Рабочий стол\num3\num3\obj\Debug\net6.0\ref\num3.dll
+C:\Users\fanta\OneDrive\Рабочий стол\num3\num3\obj\Debug\net6.0\num3.pdb
+C:\Users\fanta\OneDrive\Рабочий стол\num3\num3\obj\Debug\net6.0\num3.genruntimeconfig.cache
